@@ -1,0 +1,127 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+
+h3 {
+    margin-top: 25px;
+    line-height: 0%;
+    color: hsl(0, 0%, 100%);
+    margin-left: 15px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-left: 50px;
+    align-content: center;
+    border-style: dashed;
+    border-color: hsl(215, 32%, 27%);
+}
+
+.container {
+    border-radius: 20px;
+    height: 500px;
+    max-width: 300px;
+    margin: 200px auto 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: hsl(216, 50%, 16%);
+}
+
+.nft {
+    align-items: flex-start;
+    margin: 0 auto;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.item {
+    padding-left: 10px;
+    align-content: center;
+}
+
+.text {
+    margin: 10px 0 0 15px;
+    color: hsl(215, 51%, 70%)
+}
+
+
+.color {
+    padding-left: 10px;
+    display: inline;
+    color: hsl(178, 100%, 50%);
+}
+
+.price {
+    margin: 15px 0 0 0;
+    display: inline-block;
+    padding: 10px;
+}
+
+.eth {
+    margin-left: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 15px;
+    width: 10px;
+}
+
+.days {
+    margin: 15px 0 0 0;
+    padding: 10px;
+    display: inline-block;
+    color: hsl(215, 51%, 70%)
+}
+
+.clock {
+    margin-left: 50px;
+    height: 15px;
+    width: 15px;
+}
+
+.avatar {
+    margin-top: 10px;
+    margin-left: 15px;
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 30px;
+    width: 25px;
+    height: 25px;
+}
+
+.creator {
+    margin: 20px 0 0 0;
+    padding-left: 10px;
+    display: inline-block;
+    color: hsl(215, 51%, 70%);
+}
+
+.tags:link {
+    text-decoration: none;
+}
+
+.tags:visited{
+    color:hsl(0, 0%, 100%)
+}
+
+.tags:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+
+
+
+
+
+.attribution { 
+    color: hsl(0, 0%, 100%);
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    font-size: 15px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
