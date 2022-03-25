@@ -1,0 +1,86 @@
+body {
+    font-size: 15px;
+    background-color: hsl(0, 0%, 95%);
+}
+
+.container {
+    margin-left: 500px;
+    margin-right: 550px;
+    display: flex;
+    
+}
+
+.left {
+    background-color: hsl(31, 77%, 52%);
+
+}
+
+.middle {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.right {
+    background-color: hsl(179, 100%, 13%);
+}
+
+.item {
+    border: 0;
+    border-radius: 5px;
+    margin-top: 200px;
+    padding-left: 40px;
+    padding-bottom: 100px;
+    text-align: left;
+}
+
+.cars {
+    display: flex;
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;;
+    color: hsl(0, 0%, 95%);
+}
+
+.names {
+    margin-top: 25px;
+}
+
+.text {
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    width:60%;
+    line-height: 25px;
+    margin-top: 30px;
+}
+
+.btn {
+    border-radius: 28px;
+    font-family: Arial;
+    color: hsl(31, 77%, 52%);
+    background-color: white;
+    border-color: white;
+    font-size: 15px;
+    padding: 14px 25px 14px 25px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 400px;
+  }
+    
+
+  .btn:hover {
+    background-color: transparent;
+    color: white;
+    
+  }
+
+.attribution { 
+    text-align: center; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
