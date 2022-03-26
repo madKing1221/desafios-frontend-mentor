@@ -1,0 +1,268 @@
+h1 {
+    font-family: 'Spartan', sans-serif;
+    color: hsl(300, 43%, 22%);
+    font-size: 40px;
+}
+
+
+.top-img {
+    display: inline-block;
+    position: absolute;
+    max-width: 550px;
+}
+
+.bot-img {
+    display: inline-block;
+    position: absolute;
+    max-height: 60%;
+    margin-left: 52%;
+}
+
+.container {
+    display: inline-block;
+    position: absolute;
+    margin: 100px 150px;
+    max-width: 400px;
+}
+
+.introtxt {
+    display: flex;
+    position: relative;
+    line-height: 20px;
+    color: hsl(303, 10%, 53%)
+}
+
+.top-container {
+    color: hsl(300, 43%, 22%);
+    margin-left: 50%;
+    margin-top: 8%;
+    padding: 0 50px 0 50px;
+    display: inline-block;
+    background-color: hsl(300, 24%, 96%);
+    border: 1px solid hsl(300, 24%, 96%);
+    border-radius: 10px;
+
+}
+
+.toptxt {
+    padding-left: 120px;
+}
+
+.top-stars1 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+}
+
+.top-stars2 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 20px;
+}
+
+.top-stars3 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 40px;
+}
+
+.top-stars4 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 60px;
+}
+
+.top-stars5 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 80px;
+}
+
+
+
+.middle-container {
+    color: hsl(300, 43%, 22%);
+    margin-left: 52%;
+    margin-top: 0.5%;
+    padding: 0 50px 0 50px;
+    display: inline-block;
+    background-color: hsl(300, 24%, 96%);
+    border: 1px solid hsl(300, 24%, 96%);
+    border-radius: 10px;
+}
+
+.middletxt {
+    padding-left: 120px;
+}
+
+.middle-stars1{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+}
+
+.middle-stars2{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 19px;
+}
+
+.middle-stars3{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 38px;
+}
+
+.middle-stars4{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 56px;
+}
+
+.middle-stars5{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 74px;
+}
+
+
+
+.bottom-container {
+    color: hsl(300, 43%, 22%);
+    margin-left: 54%;
+    margin-top: 0.5%;
+    padding: 0 50px 0 50px;
+    display: inline-block;
+    background-color: hsl(300, 24%, 96%);
+    border: 1px solid hsl(300, 24%, 96%);
+    border-radius: 10px;
+}
+
+.bottomtxt {
+    padding-left: 120px;
+}
+
+.bottom-stars1{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+}
+
+.bottom-stars2{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 19px;
+}
+
+.bottom-stars3{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 38px;
+}
+
+.bottom-stars4{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 56px;
+}
+
+.bottom-stars5{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 74px;
+}
+
+.left-container {
+    background-color: hsl(300, 43%, 22%);
+    display: inline-block;
+    position: relative;
+    max-width: 15%;
+    border-radius: 10px;
+    margin: 100px 0 0 150px;
+    padding: 20px 20px 20px 20px;
+}
+
+.colton {
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    border-radius: 50px;
+}
+
+
+.mid-container {
+    background-color: hsl(300, 43%, 22%);
+    display: inline-block;
+    position: relative;
+    max-width: 15%;
+    margin-left: 250px;
+    margin-top: 150px;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.irene {
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    border-radius: 50px;
+}
+
+.right-container {
+    background-color: hsl(300, 43%, 22%);
+    display: inline-block;
+    position: relative;
+    max-width: 15%;
+    border-radius: 10px;
+    margin-left: 200px;
+    padding: 20px 20px 20px 20px;
+}
+
+.anne {
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    border-radius: 50px;
+}
+
+
+.name {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    color: hsl(0, 0%, 100%);
+}
+
+.verified {
+    margin-left: 50px;
+    color: hsl(333, 80%, 67%);
+}
+
+.testimony {
+    color: hsl(0, 0%, 100%)
+}
+
+.attribution {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
